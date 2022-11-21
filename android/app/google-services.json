@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426140685533",
+    "project_id": "twod-af15f",
+    "storage_bucket": "twod-af15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426140685533:android:790680b97167776773f734",
+        "android_client_info": {
+          "package_name": "com.example.twodscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426140685533-6inm9f6q8bur4cm3jtdaku3gnvo6idlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAztqThb6WX2bI36BMEXyVLKHKn_h9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426140685533-6inm9f6q8bur4cm3jtdaku3gnvo6idlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
